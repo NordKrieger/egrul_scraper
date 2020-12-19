@@ -1,5 +1,0 @@
-name: egrul_scraper
-channels:
-  - defaults
-dependencies:
-  - python=3.8
